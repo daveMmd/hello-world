@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T05:07:50.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="maCdHgG1sgwDI-UDincM" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T05:13:23.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="JwAHoqNCGVZLtRcdwRF_" version="13.8.0" type="github">
   <diagram id="fzVHMRq2OoplXC-9H8n4" name="Page-1">
     <mxGraphModel dx="1113" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,6 +105,27 @@
         </mxCell>
         <mxCell id="IBEG4nVtAPEdGY8RLfQG-41" value="RE4 is matched&lt;br&gt;..." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="960" y="625" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBEG4nVtAPEdGY8RLfQG-43" value="&lt;b&gt;Regex Set&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IBEG4nVtAPEdGY8RLfQG-44" value="&lt;b&gt;Prefix Set&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IBEG4nVtAPEdGY8RLfQG-45" value="&lt;b&gt;Postfix Set&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="620" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IBEG4nVtAPEdGY8RLfQG-46" value="&lt;b&gt;Relation Mapping Table&lt;br&gt;(RMT)&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="449" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IBEG4nVtAPEdGY8RLfQG-47" value="&lt;b&gt;Input Traffic&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="120" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IBEG4nVtAPEdGY8RLfQG-48" value="&lt;b&gt;Prefix Matches&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="420" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IBEG4nVtAPEdGY8RLfQG-49" value="&lt;b&gt;Regex Matches&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1024.5" y="705" width="95.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
